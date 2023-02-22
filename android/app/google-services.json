@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1017483401485",
+    "project_id": "flash-chat-873a5",
+    "storage_bucket": "flash-chat-873a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017483401485:android:61fbaf081f09d8138af844",
+        "android_client_info": {
+          "package_name": "com.ARDesilva.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017483401485-vsj4ml8qq1284uia2e7f6kk4km9n0ikf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYXh4axMuEal7cKfA8mEkJBFlNq5xGTgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017483401485-vsj4ml8qq1284uia2e7f6kk4km9n0ikf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
